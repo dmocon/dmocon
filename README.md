@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m Darren M. OConnell (@dmocon)
+ 
+Currently working on my return to programming. I will be adding my projects here soon.
+
 <!--
 **dmocon/dmocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
